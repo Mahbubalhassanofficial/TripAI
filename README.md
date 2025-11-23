@@ -17,7 +17,7 @@ Founder, **B’Deshi Emerging Research Lab**
 **TripAI** is a complete, intelligent, open-source platform built for transportation researchers, traffic engineers, and planning professionals.
 It integrates classical travel demand modelling with modern AI/XAI techniques and provides a synthetic, reproducible testbed for academic publishing.
 
-This tool is ideal for Q1 journal articles, conference papers, teaching, and rapid methodological experimentation.
+
 
 ---
 
@@ -192,6 +192,7 @@ Graduate Research Student
 Department of Civil Engineering
 Faculty of Engineering
 **Chulalongkorn University, Thailand**
+email: mahbub.hassan@ieee.org; 6870376421@student.chula.ac.th
 Founder, **B’Deshi Emerging Research Lab**
 
 ---
